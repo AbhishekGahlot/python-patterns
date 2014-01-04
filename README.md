@@ -26,6 +26,7 @@ Current Patterns:
 * builder		
 * iterator		
 * strategy
+* singleton
 * chain		
 * mediator		
 * template
